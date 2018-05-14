@@ -1,10 +1,11 @@
-# Docker Java教程6：使用Swarm 模式部署应用
-
+---
+title: Docker Java教程6：使用Swarm 模式部署应用
+date: 2018-05-14 23:09:42
 tags: [docker]
-
 ---
 
-Docker Engine 包含 swarm 模式 用来管理一个Docker Engines 的集群.Docker CLI 可以用来创建swarm,部署应用服务到swarm上,并且管理swarm的行为.完全的细节地址：https://docs.docker.com/engine/swarm/.在开始这个章节之前需要先了解一些重要的概念:[Swarm mode key concepts](https://docs.docker.com/engine/swarm/key-concepts/) 
+
+Docker Engine 包含 swarm 模式 用来管理一个Docker Engines 的集群.Docker CLI 可以用来创建swarm,部署应用服务到swarm上,并且管理swarm的行为.完全的细节地址：https://docs.docker.com/engine/swarm/.在开始这个章节之前需要先了解一些重要的概念: [Swarm mode key concepts](https://docs.docker.com/engine/swarm/key-concepts/) 
 
 <!--more-->
 
