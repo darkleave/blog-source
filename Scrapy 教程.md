@@ -1,7 +1,7 @@
 ---
 title: Scrapy 教程
 date: 2018-05-23 23:09:42
-tags: [docker]
+tags: [scrapy]
 ---
 
 在这个教程里面, 我们会假设Scrapy 已经安装在你的系统里面,如果还没安装的话，查看[安装教程](https://docs.scrapy.org/en/latest/intro/install.html#intro-install)
